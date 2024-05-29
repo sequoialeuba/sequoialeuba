@@ -1,7 +1,6 @@
 - :books: My research focuses on malaria in pregnancy
 - :book: I’m currently learning modelling of malaria in pregnancy, previously worked on first-trimester malaria
-- :sunny: I'm an epidemiologist focusing on infectious diseases:
-        - e.g., malaria in pregnancy, HIV among Chinese men who have sex with men, and US influenza burden
+- :sunny: I'm an epidemiologist focusing on infectious diseases: malaria in pregnancy, HIV among Chinese men who have sex with men, and US influenza burden
 - :mailbox_with_no_mail: You can reach me at s.leuba21@imperial.ac.uk
 - :evergreen_tree: Fun fact: My name is the only *reasonably* common name with every vowel
 
