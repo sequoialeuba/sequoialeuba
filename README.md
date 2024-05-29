@@ -1,10 +1,9 @@
-- Research Associate in Malaria Epidemiology at Imperial College London
-- 🔭 My research focuses on malaria in pregnancy
-- 🌱 I’m currently learning modelling of malaria in pregnancy, previously worked on first-trimester malaria
-- 😄 I'm an epidemiologist focusing on infectious diseases:
+- :books: My research focuses on malaria in pregnancy
+- :book: I’m currently learning modelling of malaria in pregnancy, previously worked on first-trimester malaria
+- :sunny: I'm an epidemiologist focusing on infectious diseases:
         - e.g., malaria in pregnancy, HIV among Chinese men who have sex with men, and US influenza burden
-- 📫 You can reach me at s.leuba21@imperial.ac.uk
-- ✨ Fun fact: My name is the only *reasonably* common name with every vowel
+- :mailbox_with_no_mail: You can reach me at s.leuba21@imperial.ac.uk
+- :evergreen_tree: Fun fact: My name is the only *reasonably* common name with every vowel
 
 <!--
 **sequoialeuba/sequoialeuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:sunny: 
 -->
