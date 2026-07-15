@@ -1,5 +1,6 @@
-- :sunny: I'm an epidemiologist focusing on infectious diseases: RSV vaccines in pregnancy, malaria in pregnancy, HIV among Chinese men who have sex with men, and US influenza burden
-- :mailbox_with_no_mail: You can reach me at s.leuba@imperial.ac.uk
+- :sunny: I'm a Research Fellow at Imperial College London
+- 🔭: I am an epidemiologist focusing on infectious diseases: RSV vaccines in pregnancy, malaria in pregnancy, HIV among Chinese men who have sex with men, and US influenza burden
+- :mailbox_with_no_mail: You can reach me at s.leuba21@imperial.ac.uk
 - :evergreen_tree: Fun fact: My name is the only *reasonably* common name with every vowel
 
 <!--
